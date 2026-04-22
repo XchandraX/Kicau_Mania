@@ -51,7 +51,7 @@ dengan penjelasan singkat:
 | File | Fungsi |
 |---|---|
 kicau_mania.py | Logika deteksi AI dan pengaturan tampilan split screen.
-'tt'install.py | Script otomatis untuk instalasi dependensi.
-'th'requirements.txt | Daftar library yang dibutuhkan.
-'th'.gitignore | Daftar file yang diabaikan oleh Git (cache, venv, dll).
+install.py | Script otomatis untuk instalasi dependensi.
+requirements.txt | Daftar library yang dibutuhkan.
+.gitignore | Daftar file yang diabaikan oleh Git (cache, venv, dll).
 note: Pastikan pencahayaan ruangan cukup agar MediaPipe dapat mendeteksi titik wajah dan tangan dengan optimal.
